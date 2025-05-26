@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zoheb Siddiqui</h1>
 <h3 align="center">As an experienced Software Engineer with a strong background in developing and maintaining robust web applications, I am passionate about leveraging technology to drive business success and enhance user experiences. Over the past few years, I have honed my skills in Python, serverless architecture, and AWS services, and I have been instrumental in implementing scalable solutions for a leading online furniture and home decor retailer. With a solid foundation in software engineering and a keen interest in data analytics and machine learning, I am now aspiring to transition into roles such as Data Analyst, Machine Learning Engineer, or Data Scientist. I am excited to utilize my analytical skills, problem-solving abilities, and technical expertise to uncover insights from data and build intelligent solutions that drive impactful decisions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whiplash23&label=Profile%20views&color=0e75b6&style=flat" alt="whiplash23" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=whiplash23&label=Profile%20views&color=0e75b6&style=flat" alt="whiplash23" /> </p>
+
+- 👨‍💻 All of my projects are available at
+[https://github.com/Whiplash23](https://github.com/Whiplash23)
+- 💬 Ask me about
+**Python Django REST-APIs** 
+- 📫 How to reach me
+**zohebsiddiqui20@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
