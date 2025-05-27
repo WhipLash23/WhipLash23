@@ -3,8 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whiplash23&label=Profile%20views&color=0e75b6&style=flat" alt="whiplash23" /> </p>
 
-- 👨‍💻 All of my projects are available at
-[https://github.com/Whiplash23](https://github.com/Whiplash23)
+- 👨‍💻 Currently located in
+Toronto, Canada 
 - 💬 Ask me about
 **Python Django ML-Algorithms REST-APIs** 
 - 📫 How to reach me
