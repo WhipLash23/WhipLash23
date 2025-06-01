@@ -175,4 +175,4 @@ Toronto, Canada
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whiplash23&show_icons=true&locale=en&layout=compact" alt="whiplash23" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zohebsiddiqui23&show_icons=true&locale=en&layout=compact" alt="whiplash23" /></p>
